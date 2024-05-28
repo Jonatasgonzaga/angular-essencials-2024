@@ -1,0 +1,8 @@
+NgOnInit: Cria a view
+
+NgAfterViewInit: depois 
+
+NgOnChange
+
+NgDestroy
+
